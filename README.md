@@ -16,4 +16,5 @@ Feel free to participate! 🚀
 
 <h2>Day 01 - Social Media Icons </h2>
 <br>
-https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/a413067c-acb4-424c-9905-97fccb3cc811
+https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/245fd81d-f428-414e-a43e-e8a77ab1230c
+
