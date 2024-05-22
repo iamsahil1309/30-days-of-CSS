@@ -17,7 +17,7 @@ Feel free to participate! 🚀
 <h2>Day 01 - Social Media Icons </h2>
 <br>
 
+![Recording2024-05-22172314-ezgif com-animated-gif-maker](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/52b66f78-3938-4421-b056-899c1961934a)
 
 
-https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/799a65b9-875d-43df-b9ac-6c850c71fb89
 
