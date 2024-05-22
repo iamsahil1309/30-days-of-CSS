@@ -12,4 +12,8 @@ In this repository, there are some rules as a suggestion:
 • Do not repeat a project already created
 • The project must be completed until 11:59pm
 
-Fell free to participate! 🚀
+Feel free to participate! 🚀
+
+<h2>Day 01 - Social Media Icons </h2>
+<br>
+https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/a413067c-acb4-424c-9905-97fccb3cc811
