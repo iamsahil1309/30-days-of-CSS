@@ -25,7 +25,11 @@ body {
     background-color: #7F3FBF;
     box-shadow: rgba(127, 63, 191, .9);
     transform: scale(1);
-    animation: pulse 2s infinite;
+   
+}
+
+.pulse-button:hover{
+    animation: pulse 1.5s infinite;
 }
 
 @keyframes pulse {
