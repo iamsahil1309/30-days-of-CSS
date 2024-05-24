@@ -20,4 +20,21 @@ Feel free to participate! 🚀
 ![Recording2024-05-22172314-ezgif com-animated-gif-maker](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/52b66f78-3938-4421-b056-899c1961934a)
 
 
+<h2>Day 02 - Pulse Effect </h2>
+<br>
+
+
+
+
+
+
+![Recording2024-05-24153442-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/06bc478e-d846-4b7a-aef1-7f9ed8b0f936)
+
+
+
+
+
+
+
+
 
