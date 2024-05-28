@@ -41,3 +41,14 @@ Feel free to participate! 🚀
 
 ![button](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/ee46f14b-a7a8-47fd-9e57-3568e8d7d1dc)
 
+<h2>Day 04 - Netflix Card UI </h2>
+<br>
+
+
+
+
+
+![Recording2024-05-28124757-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/9483a6db-83ed-44c3-8739-a19b69646244)
+
+
+
