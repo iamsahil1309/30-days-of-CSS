@@ -31,10 +31,13 @@ Feel free to participate! 🚀
 ![Recording2024-05-24153442-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/06bc478e-d846-4b7a-aef1-7f9ed8b0f936)
 
 
+<h2>Day 03 - 3d animated button </h2>
+<br>
 
 
 
 
 
 
+![button](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/ee46f14b-a7a8-47fd-9e57-3568e8d7d1dc)
 
