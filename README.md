@@ -51,4 +51,13 @@ Feel free to participate! 🚀
 ![Recording2024-05-28124757-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/9483a6db-83ed-44c3-8739-a19b69646244)
 
 
+<h2>Day 05 - Responsive Footer </h2>
+<br>
+
+
+
+
+
+![Recording2024-05-29113924-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/c34b947b-6c27-430b-aae3-d5f873a21c95)
+
 
