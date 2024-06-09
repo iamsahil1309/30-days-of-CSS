@@ -60,4 +60,19 @@ Feel free to participate! 🚀
 
 ![Recording2024-05-29113924-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/c34b947b-6c27-430b-aae3-d5f873a21c95)
 
+<h2>Day06 - Sidebar</h2>
+<br>
+
+
+
+
+
+
+![Recording2024-06-09203026-ezgif com-video-to-gif-converter](https://github.com/iamsahil1309/30-days-of-CSS/assets/72827586/07074484-f921-4f93-b1f9-b9d3376241c4)
+
+
+
+
+
+
 
